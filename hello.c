@@ -2,4 +2,6 @@
 void main()
 {
     printf("Hello Rookies");
+    printf("new line");
+    return 0;
 }
